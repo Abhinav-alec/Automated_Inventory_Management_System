@@ -22,26 +22,28 @@ With this sheet, you can easily track stock, maintain vendor & customer records,
 
 ## 🖼️ Screenshots  
 
-### 1. Dashboard & Customers  
-![Customers](./screenshots/customers.png)  
+  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8518c72c-8cf7-4c59-bdd9-471e3b303c02" />
+  
 
-### 2. Vendors  
-![Vendors](./screenshots/vendors.png)  
 
-### 3. Products  
-![Products](./screenshots/products.png)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7eb5307-fd74-4f5d-a4ae-f6084fb0b653" />
+  
 
-### 4. New Entry  
-![New Entry](./screenshots/new_entry.png)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee2f1f14-15a8-4c89-9120-ef6f1272d146" />
+ 
 
-### 5. Purchases  
-![Purchases](./screenshots/purchase.png)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ebdf905a-0db3-490e-8231-df2db62ed86d" />
 
-### 6. Sales  
-![Sales](./screenshots/sales.png)  
+  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e421229-3256-47df-b68a-0c5b838052b2" />
+ 
 
-### 7. Inventory & Stock  
-![Inventory](./screenshots/inventory.png)  
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d3f3f2dc-78cf-43df-ae9b-6efd73f6cb64" />
+  
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/476d48bf-7abc-4466-8fa0-aee61053d625" />
+ 
 
 ---
 

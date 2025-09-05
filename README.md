@@ -23,7 +23,8 @@ With this sheet, you can easily track stock, maintain vendor & customer records,
 ## 🖼️ Screenshots  
 
   
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8518c72c-8cf7-4c59-bdd9-471e3b303c02" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7c30f0c3-184a-4d2f-af83-dee3056d7c70" />
+
   
 
 
